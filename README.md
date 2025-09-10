@@ -2,8 +2,9 @@
 
 # DoxbeanV2
 
-![Image Alt](https://github.com/vantixt777/doxbean/blob/82b0a26fe25ed30b3d55949627ed6aa135e21e4d/doxbean%20tool.png)
+![Image Alt](https://github.com/vantixt777/DoxbeanV2./blob/115b23a8b4825b9b98fef031529fd230cbf3d17e/Doxbean%20Tool.png)
 
+![Image Alt](https://github.com/vantixt777/DoxbeanV2./blob/115b23a8b4825b9b98fef031529fd230cbf3d17e/doxbean%20Ip%20pinger.png)
 
 `DoxbeanV2.py` is a **Python application** with a graphical user interface built using **PyQt5**.
 It combines network-related features with a modern GUI design.
