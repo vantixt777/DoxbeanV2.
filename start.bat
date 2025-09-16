@@ -1,4 +1,5 @@
 @echo off
-echo Starting Crylux Tool...
+echo Starting DoxbeanV2
 python DoxbeanV2.py
+
 pause
